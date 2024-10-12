@@ -1,5 +1,4 @@
 # install-apache
-# Instal-web-server-apache
 Instalasi aplikasi web server
 root@smkmanusa:~# apt instal apache2
 
